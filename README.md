@@ -44,7 +44,7 @@ Welcome to the Custom Drive Icon Changer repository! This guide will walk you th
 
 ## Preview
 
-![Custom Drive Icon Preview](preview.jpg)
+![Custom Drive Icon Preview](Preview.jpg)
 
 This image shows an example of a custom drive icon applied to a local disk.
 
